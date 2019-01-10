@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "app_name"> YouTB </string>
+    <string name = "title_channel"> ช่อง </string>
+    <string name = "title_playlist"> เพลย์ลิสต์ </string>
+    <string name = "title_bahasa"> ภาษา </string>
+    <string name = "title_favorite"> ที่ชื่นชอบ </string>
+    <string name = "title_version"> เวอร์ชัน </string>
+    <string name="des">ลักษณะ :</string>
+    <string name="comment">ความคิดเห็น :</string>
+</resources>
