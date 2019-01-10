@@ -1,6 +1,7 @@
-# ProjectPAM
-Final Project PAM 
+______________________________________FINAL PROJECT PEMROGRAMAN APLIKASI MOBILE______________________________________
 
-NAMA KELOMPOK
-Muhammad dwisyal alfitra  16.11.0336
-samsul rijal              16.11.0387
+                                                Nama Kelompok :
+
+                                    Samsul Rijal              16.11.0387
+                                    Muhammad dwisyal alfitra  16.11.0336
+                                 _____________________________________________
